@@ -1,5 +1,7 @@
 # Mirror Netcode on Edgegap
 
+![Add Edgegap dedicated game servers to Mirror Networking's Tanks sample in Unity.](docs/images/card.jpg)
+
 This guide will help you create a headless server on Edgegap for a Unity project using [Mirror](https://mirror-networking.com/) as its networking solution.
 
 In this guide, we will be using the open-source sample project `Tanks` which is already available in your Mirror project, location Assets/Mirror/Examples/Tank
